@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss, zeng86,zeng,ziang0 
 employee, cni28, ni, chixu
+employee,jzhou483,Zhou,Jingsong
